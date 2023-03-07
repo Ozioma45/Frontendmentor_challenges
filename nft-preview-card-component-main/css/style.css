@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    color: #f1f1f1;
+}
+
+
+
+.card-main{
+    background-color: hsl(216, 50%, 16%);
+}
+
+.img-cont{
+    background-color: red;
+}
