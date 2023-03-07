@@ -15,8 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -34,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-in-htmlcss-XbWFud3I8P)
+- Live Site URL:(https://ozioma45.github.io/Frontendmentor_challenges/product-preview-card-component-main/)
 
 ## My process
 
@@ -50,11 +48,11 @@ Users should be able to:
 
 ### What I learned
 
-This is indeed an interesting and challenging project and i really learnt alot. It has really been a while i designed with bootstrap, so getting to understand it syntax and arrangement was not very use even with the documentation to here but am really glad the project gave a broad understanding of the framework
+This is indeed an interesting and challenging project and i really learnt alot. It has really been a while i designed with bootstrap, so getting to understand it syntax and arrangement was not very use even with the documentation available but am really glad the project gave a broad understanding of the framework
 
 ### Continued development
 
-While the Grid system with bootstrap is still not fully understand and i instead to use it more often in my future projects for better understanding and implimentation.
+While the Grid system with bootstrap is still not fully clear to me. i intend to use it more often in my future projects for better understanding and implimentation.
 
 ## Author
 
