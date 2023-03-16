@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Outfit:wght@300;600&display=swap');
+
+body{
+    background-color: hsl(185, 75%, 39%);
+}
+
+main{
+    height: 100vh;
+    max-width: 100%;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.main-cont{
+    border-radius: 15px;
+}
+.vic-img{
+    margin-top: -3rem;
+}
+
+.pattern{
+    width: 100%;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.name, .stat{
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(229, 23%, 23%);
+}
+
+.vic-age, .lon{
+    color: hsl(0, 0%, 59%);
+    font-weight: bold;
+}
+
+.b-stat{
+    color: hsl(0, 0%, 59%);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+}
